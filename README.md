@@ -37,7 +37,7 @@
   
   <h3>  Recursos humanos</h3>
    <h5>Pedro Kappes - ???</h5>
-   <h5> Aluno - RGM </h5>
+   <h5> Gustavo Fogaca -  11408367 </h5>
    <h5> Aluno - RGM </h5>
    <h5> Aluno - RGM </h5>
    <h5> Aluno - RGM </h5>
